@@ -24,6 +24,6 @@ class Program
 
         int result = Ackermann(n, m);
 
-        Console.WriteLine($"Значение функции Аккермана для n={n}, m={m}: {result}");
+        Console.WriteLine($"A (m, n)= {result}");
     }
 }
